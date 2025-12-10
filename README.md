@@ -7,8 +7,8 @@ Soluciones en Python organizadas por día (`dayN`). Cada carpeta contiene `dayN.
        /_____\
        \o o)\)_______
        (<  ) /#######\             __Manel-Romero
-     __{'~` }#########|            Rank: 4th
-    /  {   _}_/########|           Points: 2293
+     __{'~` }#########|            Rank: 5th
+    /  {   _}_/########|           Points: 2333
    /   {  / _|#/ )####|            Mean: 00:25:50
   /   \_~/ /_ \  |####|            Median: 00:13:21
   \______\/  \ | |####|

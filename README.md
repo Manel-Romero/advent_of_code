@@ -1,5 +1,5 @@
 # Advent of Code 2025
-Soluciones en Python organizadas por día (`dayN`). Cada carpeta contiene `dayN.py` y su `dayN.input`.
+Soluciones del AoC 2025 en Python organizadas por día (`dayN`). Cada carpeta contiene `dayN.py` y su `dayN.input`.
 ```
        ____
      {} _  \
@@ -7,10 +7,10 @@ Soluciones en Python organizadas por día (`dayN`). Cada carpeta contiene `dayN.
        /_____\
        \o o)\)_______
        (<  ) /#######\             __Manel-Romero
-     __{'~` }#########|            Rank: 6th
-    /  {   _}_/########|           Points: 2601
-   /   {  / _|#/ )####|            Mean: 00:27:22
-  /   \_~/ /_ \  |####|            Median: 00:13:21
+     __{'~` }#########|            Rank: 7th
+    /  {   _}_/########|           Points: 2841
+   /   {  / _|#/ )####|            Mean: 00:28:10
+  /   \_~/ /_ \  |####|            Median: 00:20:08
   \______\/  \ | |####|
    \__________\|/#####|
     |__[X]_____/ \###/ 
@@ -20,4 +20,3 @@ Soluciones en Python organizadas por día (`dayN`). Cada carpeta contiene `dayN.
     _|   /_|   /
    (___,_(___,_)`     AoC FTW
 ```
-Actualizado 11/12/2025

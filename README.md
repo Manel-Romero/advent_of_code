@@ -8,7 +8,7 @@ Soluciones del AoC 2025 en Python organizadas por día (`dayN`). Cada carpeta co
        \o o)\)_______
        (<  ) /#######\             __Manel-Romero
      __{'~` }#########|            Rank: 7th
-    /  {   _}_/########|           Points: 2841
+    /  {   _}_/########|           Points: 2889
    /   {  / _|#/ )####|            Mean: 00:28:10
   /   \_~/ /_ \  |####|            Median: 00:20:08
   \______\/  \ | |####|
